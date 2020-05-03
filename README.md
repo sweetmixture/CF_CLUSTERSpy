@@ -52,7 +52,7 @@ There are three major figures in the general output file, 'CF.out', which users 
 1. RMS CONFIG     : refers to the 'root-mean-square deviation' of two input atom/ion configurations, which are rotated / recentred.
 		    If this figure is close to zero, then it implies two structures are in matching, i.e., if the value is < 0.0025.
 
-2. RMS PMOI       : refers to the 'root-mean-square deviation' of principle moment of inertia of two input atom/ion configurations, which are rotated / recentred.
+2. RMS PMOI       : refers to the 'root-mean-square deviation' of principal moment of inertia of two input atom/ion configurations, which are rotated / recentred.
 		    This figure can be used to find out how the atoms or ions are scatterd in the space or used as supportive data correcting 'RMS CONFIG'. 
 
 3. Scaling Factor : refers to how the first structure is expanded with respect to the second structure.
