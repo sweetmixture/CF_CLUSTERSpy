@@ -6,7 +6,7 @@
  Address     :  University College London, Kathleen Lonsdale Materials Chemsitry, 20 Gordon Street, London WC1H 0AJ.
  
 
-###### Description
+#### Description
   
 CF_CLUSTSERSpy is a code, designed for comparing structures of moleclues or clusters.
 
