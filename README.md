@@ -44,6 +44,18 @@ Afterwards there will be four new files generated in the same directory, which a
 
 4. CF_3.xyz    : plot of both 'CF_1.xyz' and 'CF_2.xyz' in the same xyz file for visual comparison.
 
+Note that the 'rotated / recentred' implies the original refrence frames (i.e., coordinate systems) of two input molecules / clusters are rotated and translated
+according to the information of their inertia tensors, and those results are given in the files, CF_1.xyz and CF_2.xyz. 
+
+There are three major figures in the general output file, 'CF.out', which users might want to check.
+
+1. RMS CONFIG     : refers to the 'root-mean-square deviation' of two input atom/ion configurations, which are rotated / recentred.
+		    If this figure is close to zero, then it implies two structures are in matching, i.e., if the value is < 0.0025.
+
+2. RMS PMOI       : refers to the 'root-mean-square deviation' of principle moment of inertia of two input atom/ion configurations, which are rotated / recentred.
+		    This figure can be used to find out how the atoms or ions are scatterd in the space or used as supportive data correcting 'RMS CONFIG'. 
+
+3. Scaling Factor : refers to how the first structure is expanded with respect to the second structure.
 
 
-aa
+######Thank you very much !
