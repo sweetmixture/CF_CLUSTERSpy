@@ -24,7 +24,7 @@ $ python CF_CLUSTERSpy_MAIN.py   /path/to/1st/input/file   /path/to/2nd/input/fi
 
 In the above command line, you can find that the code requires two arguments, which are files (or their paths) including structural data of molecules or clusters that user wants to compare.
 
-***The format of input files must be "~.xyz", which are generally used in many different structural visualisation packages, e.g., VESTA,
+***The format of input files must be "~.xyz", which is generally used in many structure visualisation packages, e.g., VESTA,
 and the atoms/ions in those two different xyz files must be in the same order***
 
 Once you successfully finshed cloning the repository, you can find two different sample input files, '1_AIMS_N6.xyz' and '1_SLAM_N6.xyz',
