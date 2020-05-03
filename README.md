@@ -58,4 +58,4 @@ There are three major figures in the general output file, 'CF.out', which users 
 3. Scaling Factor : refers to how the first structure is expanded with respect to the second structure.
 
 
-######Thank you very much !
+#### Thank you very much !
