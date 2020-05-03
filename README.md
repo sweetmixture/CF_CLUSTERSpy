@@ -1,8 +1,8 @@
 # CF_CLUSTERSpy
 
- (c) Author  :  Woongkyu Jee, Scott M. Woodley.
- Contact     :  woong.jee.16@ucl.ac.uk / wldndrb1@gmail.com.
- Affiliation :  University College London, Department of Chemistry.
+ (c) Author  :  Woongkyu Jee, Scott M. Woodley;
+ Contact     :  woong.jee.16@ucl.ac.uk / wldndrb1@gmail.com;
+ Affiliation :  University College London, Department of Chemistry;
  Address     :  University College London, Kathleen Lonsdale Materials Chemsitry, 20 Gordon Street, London WC1H 0AJ.
  
 
