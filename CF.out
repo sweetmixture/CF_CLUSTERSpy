@@ -1,0 +1,120 @@
+############################################################
+#                                                          #
+#                     COMPARE CLUSTERS                     #
+#                                                          #
+#                     Python Version 1                     #
+#                        23.01.2020                        #
+#                                                          #
+#                     Scott M Woodley                      #
+#                       Woongkyu Jee                       #
+#                                                          #
+############################################################
+============================================================
+                                                            
+ RESULTS FROM COMPARING CLUSTERS                            
+                                                            
+ Using recentred / rotated structural data                  
+                                                            
+ CLUSTER FILE INPUTS :
+                                                            
+ CLUSTER 1 :  1_AIMS_N6.xyz
+ CLUSTER 2 :  1_SLAM_N6.xyz
+                                                            
+============================================================
+                                                            
+ Degeneracy in the pricipal moment of inertia :  1         
+                                                            
+ Principal Moment of Inertia
+                                                            
+ CLUSTER 1 :    29.176723   53.649329   53.864909
+ CLUSTER 2 :    29.734060   52.971774   54.688308
+                                                            
+ RMS PMOI  :     0.033422
+                                                            
+============================================================
+                                                            
+ Final Cluster Configurations ( Recentred / Rotated ) 
+                                                            
+ CLUSTER 1 :
+                                                            
+  O    2.171466   -0.018091    1.351456
+  O    2.174842    0.018793   -1.349169
+  O   -2.171472    0.018091   -1.351461
+  O   -0.000579    1.392713    0.020030
+  O   -2.174849   -0.018793    1.349174
+  O    0.000586   -1.392713   -0.020031
+ Sn    2.251158    1.644361    0.022672
+ Sn   -2.251152   -1.644357   -0.022671
+ Sn    2.251991   -1.644116   -0.021578
+ Sn    0.001498    0.026828   -1.895310
+ Sn   -2.251984    1.644112    0.021577
+ Sn   -0.001505   -0.026829    1.895311
+                                                            
+ CLUSTER 2 :
+                                                            
+  O    2.138205   -0.000002    1.263840
+  O    2.138206    0.000001   -1.263839
+  O   -2.138205    0.000002   -1.263840
+  O    0.000000    1.419038    0.000001
+  O   -2.138206   -0.000001    1.263839
+  O   -0.000000   -1.419038   -0.000001
+ Sn    2.273506    1.710114    0.000001
+ Sn   -2.273506   -1.710114   -0.000001
+ Sn    2.273506   -1.710114   -0.000002
+ Sn   -0.000000    0.000002   -1.951871
+ Sn   -2.273506    1.710114    0.000002
+ Sn    0.000000   -0.000002    1.951871
+                                                            
+ RMS CONFIG:     0.007214
+                                                            
+============================================================
+                                                            
+ Scaling Factor
+                                                            
+ Calculating optimised expansion coefficient (Etha)
+ on 'cluster 2' with respect to 'cluster 1'
+                                                            
+ ( Etha          )(x2)   (x1)
+ (      Etha     )(y2) = (y1)  Find optimised 'Etha' value
+ (          Etha )(z2)   (z1)
+                                                            
+ Scaling Factor(Etha) Optimisation Log 
+                                                            
+  Cycle:   1  Gnorm:     0.394578  Etha:     1.000000
+  Cycle:   5  Gnorm:     0.249242  Etha:     0.998942
+  Cycle:   9  Gnorm:     0.157438  Etha:     0.998274
+  Cycle:  13  Gnorm:     0.099449  Etha:     0.997852
+  Cycle:  17  Gnorm:     0.062819  Etha:     0.997585
+  Cycle:  21  Gnorm:     0.039680  Etha:     0.997417
+  Cycle:  25  Gnorm:     0.025065  Etha:     0.997311
+  Cycle:  29  Gnorm:     0.015833  Etha:     0.997243
+  Cycle:  33  Gnorm:     0.010001  Etha:     0.997201
+  Cycle:  37  Gnorm:     0.006317  Etha:     0.997174
+  Cycle:  41  Gnorm:     0.003990  Etha:     0.997157
+  Cycle:  45  Gnorm:     0.002521  Etha:     0.997146
+  Cycle:  49  Gnorm:     0.001592  Etha:     0.997140
+  Cycle:  53  Gnorm:     0.001006  Etha:     0.997135
+  Cycle:  57  Gnorm:     0.000635  Etha:     0.997133
+  Cycle:  61  Gnorm:     0.000401  Etha:     0.997131
+  Cycle:  65  Gnorm:     0.000253  Etha:     0.997130
+  Cycle:  69  Gnorm:     0.000160  Etha:     0.997129
+  Cycle:  73  Gnorm:     0.000101  Etha:     0.997129
+  Cycle:  77  Gnorm:     0.000064  Etha:     0.997129
+  Cycle:  81  Gnorm:     0.000040  Etha:     0.997128
+  Cycle:  85  Gnorm:     0.000025  Etha:     0.997128
+  Cycle:  89  Gnorm:     0.000016  Etha:     0.997128
+  Cycle:  93  Gnorm:     0.000010  Etha:     0.997128
+  Cycle:  97  Gnorm:     0.000006  Etha:     0.997128
+  Cycle: 101  Gnorm:     0.000004  Etha:     0.997128
+  Cycle: 105  Gnorm:     0.000003  Etha:     0.997128
+  Cycle: 109  Gnorm:     0.000002  Etha:     0.997128
+  Cycle: 113  Gnorm:     0.000001  Etha:     0.997128
+                                                            
+ Scaling Factor :     0.997128
+                                                            
+============================================================
+############################################################
+#               COMPLETE SUCCESS - ALL DONE                #
+############################################################
+#             THANK YOU FOR USING CF-CLUSTERS              #
+############################################################
