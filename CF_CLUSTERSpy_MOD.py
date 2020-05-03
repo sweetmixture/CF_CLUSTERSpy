@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python
 
 import sys,math
 import numpy as np
